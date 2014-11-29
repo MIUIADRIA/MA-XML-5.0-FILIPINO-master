@@ -27,4 +27,4 @@ Tech Support :
 
 - MIUI Unofficial Translation Guide : http://miui.connortumbleson.com/dev_guide
 - MIUI Official Translation Guide : http://en.miui.com/thread-45050-1-1.html
-- Dev Support By BalcanGSM : http://adria.mobiledevs.net
+- Dev Support By BalcanGSM & MIUI Adria Group : http://adria.mobiledevs.net
